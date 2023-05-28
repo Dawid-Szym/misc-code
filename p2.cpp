@@ -19,7 +19,6 @@ void fillone(int* arr, int temp){
 
 void filltwo(int* arr, int temp){
     for (int i = 0; i < temp; i++) {
-        //arr[i] = (i % 6 == 0) ? 1 : (1 << (i % 6));
         int liczn = i%6;
         switch (liczn)
         {
@@ -183,7 +182,6 @@ void zeroDiagonal(int **matrix, int **result, int n, int m) {
         result[i][i] = 0;
     }
 }
-//
 long double multiplyOdwrNotZero(int **matrix, int n, int m) {
     long double result=1;
     for (int i = 0; i < n; i++) {
