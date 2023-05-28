@@ -1,0 +1,21 @@
+Projekt P5.1
+
+Napisz kod programu który z gwiazdek * narysuje na ekranie choinkę o zadanej wysokości, z przedziału 4-14. Np. dla wysokości 6 („gałęzie” 5 + podstawa 1).
+Wynik zapisz również do pliku.
+
+
+Projekt P5.2
+
+Napisz kod programu, który wczytujący kolejne liczby z klawiatury i kończący się gdy:
+- suma tych liczb przekroczy 100,
+- łącznie podanych liczb ujemnych będzie więcej niż 10,
+- dwie kolejne podane liczby będą miały identyczną wartość.
+
+Zapisz również do pliku statystykę obejmującą:
+- ostatnią podaną liczbę,
+- ile podano liczb w sumie oraz ile liczb ujemnych, dodatnich, parzystych, nieparzystych.
+
+
+Projekt P5.3
+
+Napisz kod programu konwertera temperatur. Program powinien pytać użytkownika z jakiej skali (Celsjusza, Kelvina, Fahrenheit’a ) na jaką ma przeliczać wartość temperatury oraz zapewniać obsługę błędów (zero bezwzględne T=0 K).

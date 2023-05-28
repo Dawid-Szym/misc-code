@@ -1,0 +1,14 @@
+Korzystając z równania opisującego okręg o środku A i promieniu r oraz równania prostych wyznacz pkt D,E,F opisujący strzałkę ukierunkowaną w stronę pkt B , nachyloną pod kątem alpha
+
+Długość ramienia strzałki wynosi 1/10 dl. promienia
+
+Dane wejściowe:
+A = punkt startowy
+B - punkt końcowy
+r – promień
+alpha – kąt nachylenia strzałki w stopniach (wartość z przedziału 10-45)
+
+Dane wyjściowe:
+D – punkt opisujący „czoło” strzałki
+E – punkt opisujący ramie strzałki
+F – punkt opisujący ramie strzałki

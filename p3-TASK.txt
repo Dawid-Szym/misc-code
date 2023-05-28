@@ -1,0 +1,33 @@
+Zadanie 1.1 sprawdzania czy podana przez użytkownika liczba a jest większa od zera.
+
+Zadanie 1.2 sprawdzania czy podana przez użytkownika liczba a jest większa od 0, a mniejsza od 11.
+
+Zadanie 1.3 sprawdzania czy podana przez użytkownika liczba a jest większa od 0, a mniejsza od 11 lub większa od 17 a mniejsza od 21
+
+Zadanie 1.4 sprawdzania czy podana przez użytkownika liczba a jest liczba całkowita.
+
+Zadanie 1.5 sprawdzania czy podana przez użytkownika liczba a jest liczba całkowita i obliczania jej sumy cyfr.
+
+Zadanie 1.6 sprawdzania czy podana przez użytkownika liczba a jest liczba całkowita i sprawdzania, czy jest podzielna przez 2.
+
+Zadanie 1.7 sprawdzania czy podana przez użytkownika liczba a jest liczba całkowita i sprawdzania, czy jest podzielna przez 2.
+
+Zadanie 1.8 sprawdzania, czy podany przez użytkownika rok jest przestępny.
+
+Zadanie 1.9 podawania daty w formacie - dzien:XX, miesiac:XX, rok:XXXX,gdzie X oznacza liczbę naturalna.
+
+Zadanie 1.10 zamiany podanej przez użytkownika liczby naturalnej od 1 do 7 na odpowiadający jej dzień tygodnia. (Przykład. Jeśli użytkownik poda 1. Powinien mu sie wyświetlić tekst: ”PONIEDZIAŁEK” Uwaga. Jeśli użytkownik poda zła liczbę powinien otrzymać informacje: ”Podałeś zła cyfrę. Nie ma takiego dnia tygodnia”)
+
+Zadanie 1.11 zamiany podanej przez użytkownika liczby naturalnej od 1 do 12 na odpowiadający jej miesiąc. (Przykład. Jeśli użytkownik poda 1. Powinien mu się wyświetlić tekst: ”STYCZEN” Uwaga. Jeśli użytkownik poda zła liczbę powinien otrzymać informacje: ”Podałes zła cyfre. Nie ma takiego miesiąca”).
+
+Zadanie 1.12 sprawdzania przez które ćwiartki układu współrzędnych przechodzi prosta y = ax + b dla wczytanych przez użytkownika a, b.
+
+Zadanie 1.13 obliczania wartości x dla danego równania ax + b = 0 (i sprawdzania, czy takie rozwiązanie istnieje- jeśli tak to ile!)
+
+Zadanie 1.14 sprawdzania ilości pierwiastków równania kwadratowego ax^2+ bx + c = 0 dla wczytanych przez użytkownika wartości a, b, c.
+
+Zadanie 1.15 sprawdzania ilości pierwiastków równania kwadratowego ax^2+ bx + c = 0 dla wczytanych przez użytkownika wartości a, b, c i obliczania wartości pierwiastków (o ile oczywiście istnieją).
+
+Zadanie 1.16 sprawdzania ilości pierwiastków równania kwadratowego ax^2+bx+c = 0 dla wczytanych przez użytkownika wartości a, b, c i sprawdzenia, czy sa oba dodatnie (o ile istnieją).
+
+Zadanie 1.17 sprawdzania ilości pierwiastków równania kwadratowego ax2+ bx+c = 0 dla wczytanych przez użytkownika wartości a, b, c i sprawdzenia, czy sa oba ujemne (o ile istnieją).
